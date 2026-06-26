@@ -1,0 +1,14 @@
+cust_id,name,email,city,membership
+C01,Maria Santos,maria@shop.ph,Manila,Gold
+C02,Juan Dela Cruz,juan@shop.ph,cebu city,Silver
+C03, Ana Reyes,ana@shop.ph,Davao City,Gold
+C04,Carlos Garcia,carlos@shop.ph,MAKATI,gold
+C05,Sofia Mendoza,,Quezon City,Bronze
+C06,Miguel Torres,miguel@shop.ph,Cebu City,Silver
+C07,Isabella Cruz,isabella@shop.ph,Manila,Gold
+C08,Rafael Aquino,rafael@shop.ph,davao city,bronze
+C09,Patricia Lim,patricia@shop.ph,Makati,Gold
+C10,Daniel Tan,daniel@shop.ph,Iloilo City,Silver
+C02,Juan Dela Cruz,juan@shop.ph,cebu city,Silver
+C11,Angela Rivera,angela@shop.ph,Pasig,Bronze
+C12, Roberto Flores,roberto@shop.ph,Makati,silver
